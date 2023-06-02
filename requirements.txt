@@ -1,0 +1,11 @@
+numpy
+matplotlib
+pandas
+scipy
+scikit-learn
+seaborn
+pyclustering
+kneed
+scikit-plot
+pydotplus
+spmf
